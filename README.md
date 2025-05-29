@@ -31,7 +31,7 @@ I'm a 3rd-year Computer Science Engineering student who started this journey dur
 
 ### 📫 Contact Me:
 - 📧 Email: ravikeshy595@gmail.com
-- 🔗 LinkedIn: *[Add your LinkedIn link here later]*
+  
 
 ---
 
